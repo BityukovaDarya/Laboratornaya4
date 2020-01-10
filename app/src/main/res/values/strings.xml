@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laboratornaya 4</string>
+    <string name="last_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="patronymic">Отчество</string>
+    <string name="save">Сохранить</string>
+    <string name="empty">Поле не должно быть пустым</string>
+    <string name="number">Студент №%1$d</string>
+    <string name="add_photo">Добавить фото</string>
+    <string name="photo">Фото студента</string>
+    <string name="create_file_error">Не удалось создать файл для фотографии</string>
+    <string name="get_photo_error">Не удалось получить фото</string>
+</resources>
